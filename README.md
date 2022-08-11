@@ -14,14 +14,27 @@ TODO
 
 ## Get Started
 
+### Preparation
+
+1. Install Tobii Eye Tracking Core
+2. Install Tobii Unity SDK For Desktop
+
 ### Player 
 
-Download .exe file from release page and complete the installation.
+1. Download "QuickQuiz_build.zip"
+2. Double-click "QuickQuiz.exe" to play
+
+You can modify chanllenges in "TrueOrFalseData.txt" file in "./QuickQuiz_Data/". 
+
+**Please do not change the name of the file or delete the file**.
 
 ### Developer
 
-Download package from release page and import it into Unity 3D.
+1. Make sure your Unity 3D is up to date
+2. Download "QuickQuiz.unitypackage" from release page
+3. Double-click to import package to Unity 3D
 
 ## Stacks
+
 - C#
 - Material-UI for Unity
