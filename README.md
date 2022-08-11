@@ -1,6 +1,6 @@
 # QuickQuiz
 
-Interactive design of game platform based on Tobii Eye Tracker
+Interactive design of game platform based on Tobii Eye Tracker.
 
 ## Demo
 
