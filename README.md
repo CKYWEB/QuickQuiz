@@ -4,7 +4,11 @@ Interactive design of game platform based on Tobii Eye Tracker.
 
 ## Demo
 
-TODO
+1. Not focus
+<img width="400" alt="Picture2" src="https://user-images.githubusercontent.com/44860359/184052430-84fd1021-811e-4ee8-80f7-dcf5ebcaa14f.png">
+2. Focused one specific option
+<img width="400" alt="Picture1" src="https://user-images.githubusercontent.com/44860359/184052452-cc22d406-76bd-4696-9cb2-bcf19ab753b9.png">
+
 
 ## Features
 
