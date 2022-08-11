@@ -32,7 +32,7 @@ You can modify chanllenges in "TrueOrFalseData.txt" file in "./QuickQuiz_Data/".
 
 1. Make sure your Unity 3D is up to date
 2. Download "QuickQuiz.unitypackage" from release page
-3. Double-click to import package to Unity 3D
+3. Import package to Unity 3D
 
 ## Stacks
 
