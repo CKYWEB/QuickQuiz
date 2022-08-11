@@ -14,7 +14,13 @@ TODO
 
 ## Get Started
 
-Download package from release page, and import it into Unity 3D.
+### Player 
+
+Download .exe file from release page and complete the installation.
+
+### Developer
+
+Download package from release page and import it into Unity 3D.
 
 ## Stacks
 - C#
