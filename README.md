@@ -25,7 +25,7 @@ Interactive design of game platform based on Tobii Eye Tracker.
 
 ### Player 
 
-1. Download [QuickQuiz_build.zip](https://github.com/biggbb777/QuickQuiz/releases/download/0.0/QuickQuiz_build.zip) from release page
+1. Download [QuickQuiz build file](https://github.com/biggbb777/QuickQuiz/releases/download/0.0/QuickQuiz_build.zip) from release page
 2. Double-click "QuickQuiz.exe" to play
 
 You can modify chanllenges in "TrueOrFalseData.txt" file in "./QuickQuiz_Data/". 
@@ -35,7 +35,7 @@ You can modify chanllenges in "TrueOrFalseData.txt" file in "./QuickQuiz_Data/".
 ### Developer
 
 1. Make sure your Unity 3D is up to date
-2. Download [QuickQuiz.unitypackage](https://github.com/biggbb777/QuickQuiz/releases/download/0.0/QuickQuiz.unitypackage) from release page
+2. Download [QuickQuiz unity package](https://github.com/biggbb777/QuickQuiz/releases/download/0.0/QuickQuiz.unitypackage) from release page
 3. Import package to Unity 3D
 
 ## Stacks
